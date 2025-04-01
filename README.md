@@ -49,8 +49,11 @@ Transformations:
 * Saved the transformed data in the silver container in Parquet format for optimal storage and query performance.
   
 ![Product_transform](https://github.com/user-attachments/assets/c9db054c-c954-40d8-9ce7-6ea3ee9e23f9)
+
 ![Territory_transform](https://github.com/user-attachments/assets/4e8d0784-a9cd-4786-93ea-76e6c6d37a67)
+
 ![Sales_transform](https://github.com/user-attachments/assets/5bf2622d-6fce-441b-85fd-9bf56db1e93e)
+
 ![Sales_visual](https://github.com/user-attachments/assets/cc8af081-a2a0-48f8-a9b6-0ce6c99f6c0d)
 ---
 ### Step 4: Data Warehousing with Azure Synapse Analytics 📊
@@ -77,6 +80,7 @@ The final step involved integrating the data with a BI tool to visualize and gen
   ○ Connected Power BI to Azure Synapse Analytics.
   ○ Designed dashboards and reports to present actionable insights to stakeholders.
   ![PowerBI1](https://github.com/user-attachments/assets/b1551eff-3680-4602-8874-86cbea18aa1d)
+  
   ![PowerBI2](https://github.com/user-attachments/assets/ef3370d9-e7dd-463a-a38f-70a357c67e85)
   
 ---
