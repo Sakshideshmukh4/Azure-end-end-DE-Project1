@@ -1,0 +1,71 @@
+[
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
+        "p_folder_name" : "Calendar",
+        "p_file_name" : "AdventureWorks_Calendar.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Customers.csv",
+        "p_folder_name" : "Customers",
+        "p_file_name" :"AdventureWorks_Customers.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv",
+        "p_folder_name" : "Product_Categories",
+        "p_file_name" : "AdventureWorks_Product_Categories.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "p_folder_name" : "Product_Subcategories",
+        "p_file_name" : "AdventureWorks_Product_Subcategories.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Products.csv",
+        "p_folder_name" : "Products",
+        "p_file_name" : "AdventureWorks_Products.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Returns.csv",
+        "p_folder_name" : "Returns",
+        "p_file_name" : "AdventureWorks_Returns.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2015.csv",
+        "p_folder_name" : "Sales_2015",
+        "p_file_name" : "AdventureWorks_Sales_2015.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2016.csv",
+        "p_folder_name" : "Sales_2016",
+        "p_file_name" : "AdventureWorks_Sales_2016.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2017.csv",
+        "p_folder_name" : "Sales_2017",
+        "p_file_name" : "AdventureWorks_Sales_2017.csv"
+
+    },
+
+    {
+        "p_rel_url" : "Sivaprasad-V/Adventure-Works-Azure-Data-Engineering-Project/refs/heads/main/Datasets/AdventureWorks_Territories.csv",
+        "p_folder_name" : "Territories",
+        "p_file_name" : "AdventureWorks_Territories.csv"
+
+    }
+]
