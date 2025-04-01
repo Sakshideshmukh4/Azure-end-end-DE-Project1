@@ -94,7 +94,7 @@ This project demonstrates the power of Azure’s ecosystem in creating a robust 
 This end-to-end solution exemplifies how modern data-driven businesses can leverage Azure to transform raw data into meaningful insights, driving informed decision-making. ✅
 ---
 ## Acknowledgment 🎉
-This project draws inspiration from an insightful GitHub repository by Ansh Lamba. For a detailed video walkthrough, check out his YouTube channel. Special thanks to Ansh for providing such valuable resources and guidance for aspiring data engineers!
+This project draws inspiration from an insightful GitHub repository by Ansh Lamba. For a detailed video walkthrough, check out his [YouTube channel](https://youtu.be/0GTZ-12hYtU?feature=shared) . Special thanks to Ansh for providing such valuable resources and guidance for aspiring data engineers!
     
 
 
